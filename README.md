@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh Duc</h1>
-<p align="center"><img src="https://scontent.fhan5-2.fna.fbcdn.net/v/t1.6435-9/124230826_1777199775777046_7676305012263950843_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=LUyiqoR6uMkAX_7Reyr&_nc_ht=scontent.fhan5-2.fna&oh=258a18df664181e8041077c8ea90f415&oe=612AF374" alt="Phạm Minh Đức" height="198" width="198"/></p>
+
 <h3 align="center">Past: Vietnamese navy Present: Software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamminhduc-1998&label=Profile%20views&color=0e75b6&style=flat" alt="phamminhduc-1998" /> </p>
